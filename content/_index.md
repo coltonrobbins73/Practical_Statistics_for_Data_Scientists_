@@ -3,4 +3,8 @@ archetype = "home"
 title = "Practical Statistics for Data Scientists"
 +++
 
-Lorem Ipsum.
+## First take
+
+## Motivation
+
+## Post-completion summary
